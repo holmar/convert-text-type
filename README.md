@@ -1,4 +1,4 @@
-# Convert Text Type
+![Convert Text Type](/Demo.gif?raw=true)
 
 **Convert Text Type** is a simple Illustrator script to convert _Point text_ to _Area text_ and vice versa. Adobe Illustrator CC has this feature built in, so this script is mostly for versions CS6 and below.
 
